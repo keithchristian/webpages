@@ -17,7 +17,7 @@ li { font-family: verdana; font-size: 15px;}
 <body>
 <h1>Advice for managing your job search and writing resumes before, during, and after a job search in late 2023</h1>
 <h2>Things learned during my job search in October through December 2022, and beyond.</h2>
-<h2>Updated 4 Nov 2023.</h2>
+<h2>Updated 3 Nov 2023.</h2>
 
 <hr>
 
@@ -106,7 +106,7 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">The best format for previous employers and dates you were there</li>
 <ol>
-<li type="1">Company, start date --- end date --- job title</li>
+<li type="1">Company, Full Time or Contractor, start date --- end date --- job title</li>
 <li type="1">(See items J and K below.)</li>
 </ol>
 
@@ -123,7 +123,7 @@ li { font-family: verdana; font-size: 15px;}
 <li type="A">Previous job example 1</li>
 <ol>
 <li type="1">FICTITIOUS COMPANY NAME BELOW:</li>
-<li type="1">Tomorrow's Most Awesome SuperKewl Technologies, 2023 --- 2025 --- Linux System Engineer (Orange Ball Cap Linux,) Operations Engineer 2.2</li>
+<li type="1">Tomorrow's Most Awesome SuperKewl Technologies, Contractor, 2023 --- 2025 --- Linux System Engineer (Orange Ball Cap Linux,) Operations Engineer 2.2</li>
 <li type="1">Used Orange Ball Cap Linux to streamline processes and increase profits by 25%.</li>
 <li type="1">Tuned all OBC Linux servers for maximum performance. Skillsets used: Docker, Java, Bash, Python, Scala, Kotlin, Nmap, Traceroute, Ping, Wireshark, Tcpdump, Sendmail, DNS.</li>
 </ol>
@@ -133,7 +133,7 @@ li { font-family: verdana; font-size: 15px;}
 <li type="A">Previous job example 2</li>
 <ol>
 <li type="1">FICTITIOUS COMPANY NAME BELOW:</li>
-<li type="1">The Last Financial Management Company You'll Ever Need, 2025 --- 2028 --- Linux DevOps Engineer (Magenta Magic Linux,) Web systems designer.</li>
+<li type="1">The Last Financial Management Company You'll Ever Need, Full Time, 2025 --- 2028 --- Linux DevOps Engineer (Magenta Magic Linux,) Web systems designer.</li>
 <li type="1">Magenta Magic Linux and DevOps utilized for startup Financial company. Skillsets used: Docker, Private Cloud, Perl, Bash, Python, Kotlin, Java, Traceroute, Ping, Wireshark, Tcpdump, Sendmail, DNS.</li>
 </ol>
 

@@ -35,8 +35,9 @@ li { font-family: verdana; font-size: 15px;}
 <li type="A">Do yourself a favor and open a dedicated email account</li>
 </ol>
 <ol>
-<li type="1">Before starting your job search, set up a totally new JOB SEARCH EMAIL ACCOUNT for the job search.</li>
-<li type="1">Do not use your current personal email. (See 1 - 5 below for WHY.)</li>
+<li type="1">Before starting your job search, set up a totally separate gmail, outlook, yahoo, hotmail, etc. JOB SEARCH EMAIL ACCOUNT for future job searches.</li>
+<li type="1">By having a dedicated JOB SEARCH EMAIL ACCOUNT, the unstoppable deluge of job alert emails will be kept out of your personal email, making it easier to locate both personal and job search emails.</li>
+<li type="1">Use the JOB SEARCH EMAIL ACCOUNT address on LinkedIn, Dice, Indeed, etc., and on all job search correspondence.</li>
 <li type="1">Be sure to check your JOB SEARCH EMAIL ACCOUNT regularly.</li>
 </ol>
 
@@ -44,11 +45,10 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">During and after the search</li>
 <ol>
-<li type="1">Even AFTER you have a new position, you'll still be contacted by recruiters, a good thing.
+<li type="1">Even AFTER you have a new position, you'll still be contacted by recruiters, potentially a good thing.
 <li type="1">The job emails will continue to pile up in your inbox, (hopefully in your JOB SEARCH EMAIL ACCOUNT.)</li>
-<li type="1">Save jobs that might be interesting in a folder, not that the job would be around in 6 months, but you'd need the recruiter's contact info.</li>
-<li type="1">Without a dedicated JOB SEARCH EMAIL ACCOUNT, personal email will be lost in the tidal wave of emails, which will almost never end.</li>
-<li type="1">Therefore, get a new gmail or other account and give that email address to the recruiter.</li>
+<li type="1">Save interesting jobs in a folder, not that the job would be around in 6 months, but by having the recruiter's contact info you could inquire about similar positions.</li>
+<li type="1">For contractors, the job search is perpetual.</li>
 </ol>
 </ol>
 
@@ -59,7 +59,6 @@ li { font-family: verdana; font-size: 15px;}
 <ol>
 <li type="1">If possible, don't quit your job until you have another one.</li>
 <li type="1">If you've lost your job, take the first offer you get even if it's not optimal, cash flow is important.</li>
-<li type="1">For contractors, the job search is perpetual.</li>
 </ol>
 
 <p>&nbsp;</p>
@@ -68,12 +67,12 @@ li { font-family: verdana; font-size: 15px;}
 <li type="A">Ideas for what to include in your resume</li>
 <ol>
 <li type="1">While searching, double check Remote or Hybrid, the hourly pay rates, etc.</li>
-<li type="1">Before sending a resume, or clicking EASY APPLY, check remote or hybrid and find the hourly rate, so that you don't apply for a job with too little pay.</li>
+<li type="1">Before sending a resume, or clicking EASY APPLY, verify the hourly rate, so that you don't apply for a job with too little pay.</li>
 <li type="1">Google now has a dedicated job search presentation, truly amazing and worthwhile.  Search terms like &quot;Remote Linux Bash job&quot; work very well.</li>
-<li type="1">Best to post the same resume on all three of the above to minimize confusion when recruiters are reviewing your resume.</li>
-<li type="1">If the job requirements list certain skills, put those skills at the top of your resume so the recruiter or hiring manager doesn't have to look for them.</li>
+<li type="1">Best to post the same resume on LinkedIn, Dice, and Indeed, to minimize confusion when recruiters are reviewing your resume.</li>
+<li type="1">If the job requirements list certain skills, put those skills below the Education section, so the recruiter or hiring manager doesn't have to look for them.</li>
 <li type="1">As you write your resume, save it frequently to avoid data loss.</li>
-<li type="1">Until 2022, I had never heard of a recruiter offering to re-structure a resume for me. The first solid contact I had in the 2022 job search asked if he could re-structure my resume and I told him yes, please do so. He said,  &quot;No one knows what a resume should look like in any given job market. But I know, because I'm a recruiter.&quot;</li>
+<li type="1">Until 2022, I had never heard of a recruiter offering to re-structure a resume for me. The first solid contact I had in the 2022 job search asked if he could re-structure my resume and I told him yes, please do so. He said, &quot;No one knows what a resume should look like in any given job market. But I know, because I'm a recruiter.&quot;</li>
 <li type="1">It's even worth letting the recruiter know in the initial email or phone call that you'd appreciate suggestions for tailoring your resume to ensure the best first impression.  This can only help your job search efforts.</li>
 </ol>
 
@@ -85,7 +84,7 @@ li { font-family: verdana; font-size: 15px;}
 <ol>
 <li type="1">First name, Last name</li>
 <li type="1">City, State, Zip code (I never put street addresses in resumes.)</li>
-<li type="1">Email address</li>
+<li type="1">Your JOB SEARCH EMAIL ACCOUNT email address.</li>
 <li type="1">Phone number (if desired, but makes it easier for your recruiter to find it.</li>
 <li type="1">https://www.linkedin.com/in/firstname.lastname (Or however your LinkedIn ID appears.)</li>
 </ol>
@@ -124,7 +123,7 @@ li { font-family: verdana; font-size: 15px;}
 <li type="A">Previous job example 1</li>
 <ol>
 <li type="1">FICTITIOUS COMPANY NAME BELOW:</li>
-<li type="1">Tomorrow's Most Awesome SuperKewl Technologies, 2023 - 2025 - Linux System Engineer (Orange Ball Cap Linux,) Operations Engineer 2.2</li>
+<li type="1">Tomorrow's Most Awesome SuperKewl Technologies, 2023 --- 2025 --- Linux System Engineer (Orange Ball Cap Linux,) Operations Engineer 2.2</li>
 <li type="1">Used Orange Ball Cap Linux to streamline processes and increase profits by 25%.</li>
 <li type="1">Tuned all OBC Linux servers for maximum performance. Skillsets used: Docker, Java, Bash, Python, Scala, Kotlin, Nmap, Traceroute, Ping, Wireshark, Tcpdump, Sendmail, DNS.</li>
 </ol>
@@ -134,7 +133,7 @@ li { font-family: verdana; font-size: 15px;}
 <li type="A">Previous job example 2</li>
 <ol>
 <li type="1">FICTITIOUS COMPANY NAME BELOW:</li>
-<li type="1">The Last Financial Management Company You'll Ever Need, 2025 - 2028 - Linux DevOps Engineer (Magenta Magic Linux,) Web systems designer.</li>
+<li type="1">The Last Financial Management Company You'll Ever Need, 2025 --- 2028 --- Linux DevOps Engineer (Magenta Magic Linux,) Web systems designer.</li>
 <li type="1">Magenta Magic Linux and DevOps utilized for startup Financial company. Skillsets used: Docker, Private Cloud, Perl, Bash, Python, Kotlin, Java, Traceroute, Ping, Wireshark, Tcpdump, Sendmail, DNS.</li>
 </ol>
 
@@ -161,7 +160,7 @@ li { font-family: verdana; font-size: 15px;}
 <li type="1">That new voicemail could be your next job.</li>
 <li type="1">Periodically (once a week or once a month) refresh your linkedin, dice, and indeed profiles.</li>
 <li type="1">In 2023, quite a few recruiters are sending an email to you with a short TXT message immediately afterward to get your attention.</li>
-<li type="1">A method to reduce interruptions after receiving emails and TXTs: &quot;Get ahead of the calls&quot; and reply to the TXT or email, with a message similar to the following:</li>
+<li type="1">A method to reduce interruptions after receiving emails and TXTs: reply to the TXT or email with a message similar to the following:</li>
 <ol>
 <li type="1">Hello (Name of recruiter,) The job looks very interesting. I'd like to discuss this on a phone call.</li>
 <li type="1">Are you available to talk after 4pm when I am off work?</li>
@@ -174,10 +173,9 @@ li { font-family: verdana; font-size: 15px;}
 
 <p>&nbsp;</p>
 
-<li type="A">Things to watch out for during interviews</li>
+<li type="A">Things to remember during recruiter cold-calls and interviews</li>
 <ol>
-<li type="1">Know your desired hourly rate before replying to a posting.  $40, $50, $60, $70, $80, $90 per hour, etc.  do not be afraid to ask for your true worth.</li>
-<li type="1">Find out the probable rate early in the call: After the job is briefly described, (about 30 seconds,) ask about the upper dollar per hour rate the client is willing to pay, since some jobs do not pay as much as you expect. If the amount is nowhere near your current rate, let the recruiter know your rate, politely thank them, and invite them to contact you again if the client is willing to pay your desired rate.
+<li type="1">Find out the probable rate early in the call: About 30 seconds into the call with a recruiter, ask about the upper dollar per hour rate the client is willing to pay, since some jobs may not pay as much as you expected. If the amount is nowhere near your current rate, let the recruiter know your rate, politely thank them, and invite them to contact you again if the client is willing to pay your desired rate.
 <li type="1">STILL.....in a difficult economy, be flexible; if unemployed, you need &quot;A JOB,&quot; even if the rate is lower than you'd otherwise accept.</li>
 <li type="1">It is essentially impossible to increase your rate to what it should have been after agreeing to the rate in the email that will be sent to you to finalize the deal. Know your desired rate !!</li>
 <li type="1">As a contractor, there are usually no benefits included (but ask if any are,) if not, then set your rate high enough to provide the level of benefits at your last full time position. It seems $2000/month is a good average value to start with.</li>
@@ -187,8 +185,9 @@ li { font-family: verdana; font-size: 15px;}
 
 <p>&nbsp;</p>
 
-<li type="A">Video interviews</li>
+<li type="A">In-Person or Video interviews</li>
 <ol>
+<li type="1">Know your desired hourly rate before replying to a posting.  $40, $50, $60, $70, $80, $90 per hour, etc.  do not be afraid to ask for your true worth.</li>
 <li type="1">Best to wear a freshly pressed white shirt and tie during the interview.</li>
 <li type="1">Take notes during the interview and study new technologies and terms that are discussed.</li>
 </ol>

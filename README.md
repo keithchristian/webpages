@@ -175,7 +175,7 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">Things to remember during recruiter cold-calls and interviews</li>
 <ol>
-<li type="1">Find out the probable rate early in the call: About 30 seconds into the call with a recruiter, ask about the upper dollar per hour rate the client is willing to pay, since some jobs may not pay as much as you expected. If the amount is nowhere near your current rate, let the recruiter know your rate, politely thank them, and invite them to contact you again if the client is willing to pay your desired rate.
+<li type="1">Find out the highest probable rate early in the call: About 30 seconds into the call with a recruiter, ask about the upper dollar per hour rate the client is willing to pay, since some jobs may not pay as much as you expected. If the amount is nowhere near your current rate, let the recruiter know your rate, politely thank them, and invite them to contact you again if the client is willing to pay your desired rate.
 <li type="1">STILL.....in a difficult economy, be flexible; if unemployed, you need &quot;A JOB,&quot; even if the rate is lower than you'd otherwise accept.</li>
 <li type="1">It is essentially impossible to increase your rate to what it should have been after agreeing to the rate in the email that will be sent to you to finalize the deal. Know your desired rate !!</li>
 <li type="1">As a contractor, there are usually no benefits included (but ask if any are,) if not, then set your rate high enough to provide the level of benefits at your last full time position. It seems $2000/month is a good average value to start with.</li>

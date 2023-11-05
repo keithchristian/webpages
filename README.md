@@ -187,12 +187,13 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">In-Person or Video interviews</li>
 <ol>
-<li type="1">Write down 4 to 6 questions pertinent to the position, so that you won't forget when the interviewer asks "What questions do you have for us?"</li>
+<li type="1">Write down 4 to 6 questions pertinent to the position, so that you won't forget when the interviewer asks \"What questions do you have for us?\"</li>
 <li type="1">Know your desired hourly rate before replying to a posting.  $40, $50, $60, $70, $80, $90 per hour, etc.  do not be afraid to ask for your true worth.</li>
 <li type="1">Best to wear a freshly pressed white shirt and tie during the interview.</li>
 <li type="1">Take notes during the interview and study new technologies and terms that are discussed.</li>
 </ol>
 </ol>
+<br>
 <center>*** END OF DOCUMENT ***</center>
 </body>
 </html>

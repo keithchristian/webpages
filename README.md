@@ -120,6 +120,8 @@ li { font-family: verdana; font-size: 15px;}
 <li type="1">Use this as the descriptive line above each separate entry in your reverse chronological job history:</li>
 </ol>
 
+<p>&nbsp;</p>
+
 <li type="A">Previous job example 1</li>
 <ol>
 <li type="1">FICTITIOUS COMPANY NAME BELOW:</li>

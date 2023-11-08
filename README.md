@@ -21,6 +21,7 @@ li { font-family: verdana; font-size: 15px;}
 
 <hr>
 
+
 <li type="A">Disclaimer</li>
 <ol>
 <li type="1">Information in this document is not guaranteed, and may be totally incorrect.</li>
@@ -29,6 +30,7 @@ li { font-family: verdana; font-size: 15px;}
 <li type="1">Everything changes fast.</li>
 </ol>
 <hr>
+
 <p>&nbsp;</p>
 
 </ol>
@@ -104,7 +106,7 @@ li { font-family: verdana; font-size: 15px;}
 
 <p>&nbsp;</p>
 
-<li type="A">The best format for previous employers and dates you were there</li>
+<li type="A">A common format for previous employers and dates employed</li>
 <ol>
 <li type="1">Company, Full Time or Contractor, start date --- end date --- job title</li>
 <li type="1">(See items J and K below.)</li>
@@ -143,7 +145,7 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">When your resume is complete</li>
 <ol>
-<li type="1">When your resume is complete, save a backup copy, go to your home page on LinkedIn and update these areas:</li>
+<li type="1">Save a backup copy. Go to your home page on LinkedIn and update these areas:</li>
 <li type="1">Your Headline, which appears under your profile picture. Click the pencil icon to the right of your picture. Edit the headline and put the most compelling skill sets there, start the line with 10 years of Linux, or 5 years of PostgreSQL, or 2 years of Docker, or whatever your BEST skillset is, then follow that with other important skills.</li>
 <li type="1">In the same area, click "Add profile section" and create or update your profile. This should be equal to or closely match your resume.</li>
 <li type="1">To the left of the Add profile section, click Open to, and click Finding a new job or Providing services. This will add a green border to your profile picture and helps get attention quickly.</li>
@@ -156,6 +158,7 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">While waiting for calls, emails, txts, and interviews.....</li>
 <ol>
+<li type="1">Know your desired hourly rate before replying to a posting.  $40, $50, $60, $70, $80, $90 per hour, etc.  Do not be afraid to ask for your true worth.</li>
 <li type="1">After the resume(s) are completed and uploaded, go into &quot;maintenance mode.&quot;</li>
 <li type="1">Watch for missed phone calls, txt messages, and check your job search email account frequently.</li>
 <li type="1">Make sure the voicemail box has space.</li>
@@ -189,11 +192,35 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">In-Person or Video interviews</li>
 <ol>
-<li type="1">Write down 4 to 6 questions pertinent to the position, so that you won't forget when the interviewer asks "What questions do you have for us?"</li>
-<li type="1">Know your desired hourly rate before replying to a posting.  $40, $50, $60, $70, $80, $90 per hour, etc.  do not be afraid to ask for your true worth.</li>
+<li type="1">Write down 4 to 6 questions pertinent to the position, so that you won't forget when the interviewer asks &quot;What questions do you have for us?&quot;</li>
+<li type="1">Write down names and positions held.</li>
 <li type="1">Best to wear a freshly pressed white shirt and tie during the interview.</li>
 <li type="1">Take notes during the interview and study new technologies and terms that are discussed.</li>
 </ol>
+
+<p>&nbsp;</p>
+
+<li type="A">Things to remember the first few days of your new job</li>
+<ol>
+<li type="1">It's unlikely that your new coworkers know your skills and capabilities; they probably haven't seen your resume, be patient as they try to help you navigate the new environment.</li>
+</ol>
+
+
+<p>&nbsp;</p>
+
+<li type="A">When you decide it's time to look for a new job</li>
+<ol>
+<li type="1">Put focus on your job search in August and September.</li>
+<li type="1">Generally, the first three quarters of the year are the best time.  In the fourth quarter, hiring usually slows down due to the Thanksgiving, Christmas, and New Year holidays, but resumes quickly afterward.</li>
+<li type="1">Many companies have layoffs in the fourth quarter, so there is more competition for jobs.</li>
+</ol>
+
+
+<p>&nbsp;</p>
+
+<li type="A">A Jira hint</li>
+<ol>
+<li type="1">10 minutes before your team's Jira stand up, write down your ticket numbers with a short description and current status on paper.
 </ol>
 <br>
 <center>*** END OF DOCUMENT ***</center>

@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>
-Advice for managing your job search and writing resumes before, during, and after a job search in late 2023
+Advice for managing your job search and writing resumes before, during, and after a job search in early 2024.
 </title>
 <style>
 body { background-color: white; }
@@ -15,9 +15,9 @@ li { font-family: verdana; font-size: 15px;}
 </head>
 
 <body>
-<h1>Advice for managing your job search and writing resumes before, during, and after a job search in late 2023</h1>
-<h2>Things learned during my job search in October through December 2022, and beyond.</h2>
-<h2>Updated 8 Nov 2023.</h2>
+<h1>Advice for managing a job search and writing resumes before, during, and after a job search in late 2023</h1>
+<h2>Things learned during my job search in October 2022 through February 2024, and beyond.</h2>
+<h2>Updated 2 Feb 2024.</h2>
 
 <hr>
 
@@ -34,7 +34,7 @@ li { font-family: verdana; font-size: 15px;}
 <p>&nbsp;</p>
 
 </ol>
-<li type="A">Do yourself a favor and open a dedicated email account</li>
+<li type="A">Do yourself a favor and create a dedicated email account</li>
 </ol>
 <ol>
 <li type="1">Before starting your job search, set up a totally separate gmail, outlook, yahoo, hotmail, etc. JOB SEARCH EMAIL ACCOUNT for future job searches.</li>
@@ -48,9 +48,16 @@ li { font-family: verdana; font-size: 15px;}
 <li type="A">During and after the search</li>
 <ol>
 <li type="1">Even AFTER you have a new position, you'll still be contacted by recruiters, potentially a good thing.
-<li type="1">The job emails will continue to pile up in your inbox, (hopefully in your JOB SEARCH EMAIL ACCOUNT.)</li>
+<li type="1">The job emails will continue to pile up in your inbox, (hopefully in your JOB SEARCH EMAIL ACCOUNT'S INBOX.)</li>
 <li type="1">Save interesting jobs in a folder, not that the job would be around in 6 months, but by having the recruiter's contact info you could inquire about similar positions.</li>
-<li type="1">For contractors, the job search is perpetual.</li>
+<li type="1">For contractors, the job search is perpetual, as employers can release you for anything, and probably never tell you the &quot;real&quot; reason.</li>
+<li type="1">My second contract in the 2023-2024 cycle was canceled after working only 40 days. (I had good performance reviews, too.)  Full time employees were also let go, so it wasn't only me.</li>
+<li type="1">So.....keep in mind that as a contractor, TODAY could be your last day on the job, as you can be released at any time.  There is little or no warning given in the 2023-2024 time frame.</li>
+<li type="1">Keep your personal effects organized at work and your desk drawers free of junk, so that you can vacate in 5 - 10 minutes.</li>
+<li type="1">At my most recent contract job in early 2024, I spent the last hour checking in code written that morning, and going over the essentials with my mentor as a goodwill gesture.</li>
+<li type="1">When suddenly terminated, your co-workers (both employees of the company and other contractors) are as shocked as you are that &quot;today is your last day.&quot;</li>
+<li type="1">If you find your co-workers to be reasonable and pleasant people, consider swapping contact info (email is probably best, phone numbers are best kept private,) early in the contract so that later on, you can provide references for each other.</>
+<li type="1">If you have swapped contact info, stay in touch every few months to &quot;keep the connections alive.&quot;</li>
 </ol>
 </ol>
 
@@ -60,7 +67,9 @@ li { font-family: verdana; font-size: 15px;}
 <li type="A">Keep your current job</li>
 <ol>
 <li type="1">If possible, don't quit your job until you have another one.</li>
-<li type="1">If you've lost your job, take the first offer you get even if it's not optimal, cash flow is important.</li>
+<li type="1">If you've lost your job, take the first reasonable offer you get even if it's not optimal, cash flow is important.</li>
+<li type="1">If the job you took simply for cash flow isn't optimal, continue the job search.  Contractors can generally quit at any time.</li>
+<li type="1">A weeks' notice to your supervisor is good business and is recommended.</li>
 </ol>
 
 <p>&nbsp;</p>
@@ -68,7 +77,7 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">Ideas for what to include in your resume</li>
 <ol>
-<li type="1">While searching, double check Remote or Hybrid, the hourly pay rates, etc.</li>
+<li type="1">While searching, triple check Remote or Hybrid, the hourly pay rates, etc. It's too easy to apply to a job only to discover later that it may not be a good fit.</li>
 <li type="1">Before sending a resume, or clicking EASY APPLY, verify the hourly rate, so that you don't apply for a job with too little pay.</li>
 <li type="1">Google now has a dedicated job search presentation, truly amazing and worthwhile.  Search terms like &quot;Remote Linux Bash job&quot; work very well.</li>
 <li type="1">Best to post the same resume on LinkedIn, Dice, and Indeed, to minimize confusion when recruiters are reviewing your resume.</li>
@@ -87,7 +96,7 @@ li { font-family: verdana; font-size: 15px;}
 <li type="1">First name, Last name</li>
 <li type="1">City, State, Zip code (I never put street addresses in resumes.)</li>
 <li type="1">Your JOB SEARCH EMAIL ACCOUNT email address.</li>
-<li type="1">Phone number (if desired, but makes it easier for your recruiter to find it.</li>
+<li type="1">Phone number (if desired, but makes it easier for your recruiter to find it.)</li>
 <li type="1">https://www.linkedin.com/in/firstname.lastname (Or however your LinkedIn ID appears.)</li>
 </ol>
 </ol>
@@ -116,7 +125,7 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">More hints for a good resume</li>
 <ol>
-<li type="1">If it's been awhile since you've used a secondary skillset, e.g. If it's been 15 years since you worked with COBOL, be sure to let the recruiter know that, he or she will understand</li>
+<li type="1">If it's been awhile since you've used a secondary skillset, e.g. If it's been 15 years since you worked with PL/1, be sure to let the recruiter know that, he or she will understand.</li>
 <li type="1">Below the current job or most recent job, explain in 90 - 100 words what skills you learned in the position and how you used them to provide value to the company vs. keeping the coffee pot on. This is a good place to provide a few details for your next potential employer.</li>
 <li type="1">In every one of the reverse-chronological job histories, briefly mention how your primary skillset (and others) were used.</li>
 <li type="1">Use this as the descriptive line above each separate entry in your reverse chronological job history:</li>
@@ -210,15 +219,14 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">When you decide it's time to look for a new job</li>
 <ol>
-<li type="1">Put focus on your job search in August and September.</li>
-<li type="1">Generally, the first three quarters of the year are the best time.  In the fourth quarter, hiring usually slows down due to the Thanksgiving, Christmas, and New Year holidays, but resumes quickly afterward.</li>
-<li type="1">Many companies have layoffs in the fourth quarter, so there is more competition for jobs.</li>
+<li type="1">Generally, the first three quarters of the year are the best time, but late January can be slow as well.  In the fourth quarter, hiring usually slows down due to the Thanksgiving, Christmas, and New Year holidays, but resumes quickly afterward, still, continue updating and posting your resume on LinkedIn, Dice, and Indeed.  I've been hired and onboarded in November and December!</li>
+<li type="1">Many companies have layoffs in the fourth quarter, so there is more competition for jobs from recently laid off contractors.</li>
 </ol>
 
 
 <p>&nbsp;</p>
 
-<li type="A">A Jira hint</li>
+<li type="A">A Jira and stand up meeting hint</li>
 <ol>
 <li type="1">10 minutes before your team's Jira stand up, write down your ticket numbers with a short description and current status on paper.
 </ol>

@@ -17,7 +17,7 @@ li { font-family: verdana; font-size: 15px;}
 <body>
 <h1>Advice for managing a job search and writing resumes before, during, and after a job search in late 2023</h1>
 <h2>Things learned during my job search in October 2022 through February 2024, and beyond.</h2>
-<h2>Updated 2 Feb 2024.</h2>
+<h2>Updated 1 Jun 2024.</h2>
 
 <hr>
 
@@ -45,9 +45,19 @@ li { font-family: verdana; font-size: 15px;}
 
 <p>&nbsp;</p>
 
+<li type="A">What suddenly being contacted by a significant number of recruiters in one day means.</li>
+<ol>
+<li type="1">That a high profile employer has released a job desctiption requiring a large number of candidates and the job carries with it a high hourly rate which translates into good income for the recruiting company.</li>
+<li type="1">It means that you're probably a top candidate for the position, since recruiters look over the skillset and start searching LinkedIn and Dice for those skillsets, and your profile is an ideal, or near ideal match.</li>
+</ol>
+</ol>
+
+
+<p>&nbsp;</p>
+
 <li type="A">During and after the search</li>
 <ol>
-<li type="1">Even AFTER you have a new position, you'll still be contacted by recruiters, potentially a good thing.
+<li type="1">Even AFTER you have a new position, you'll still be contacted by recruiters, potentially a good thing.</li>
 <li type="1">The job emails will continue to pile up in your inbox, (hopefully in your JOB SEARCH EMAIL ACCOUNT'S INBOX.)</li>
 <li type="1">Save interesting jobs in a folder, not that the job would be around in 6 months, but by having the recruiter's contact info you could inquire about similar positions.</li>
 <li type="1">For contractors, the job search is perpetual, as employers can release you for anything, and probably never tell you the &quot;real&quot; reason.</li>
@@ -219,6 +229,8 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">When you decide it's time to look for a new job</li>
 <ol>
+<li type="1">I've found it best to never mention to anyone that you're looking for a new job.</li>
+<li type="1">Even though in C(4) above I state that the job search is perpetual, or seems to be, best not to discuss it in any work environment, as your current employer may find out and plan to release you sooner rather than later.</li>
 <li type="1">Generally, the first three quarters of the year are the best time, but late January can be slow as well.  In the fourth quarter, hiring usually slows down due to the Thanksgiving, Christmas, and New Year holidays, but resumes quickly afterward, still, continue updating and posting your resume on LinkedIn, Dice, and Indeed.  I've been hired and onboarded in November and December!</li>
 <li type="1">Many companies have layoffs in the fourth quarter, so there is more competition for jobs from recently laid off contractors.</li>
 </ol>

@@ -15,7 +15,7 @@ li { font-family: verdana; font-size: 15px;}
 </head>
 
 <body>
-<h1>Advice for managing a job search and writing resumes before, during, and after a job search in late 2023</h1>
+<h1>Advice for managing a job search and writing resumes before, during, and after a job search in 2024</h1>
 <h2>Things learned during my job search in October 2022 through February 2024, and beyond.</h2>
 <h2>Updated 20 Jun 2024.</h2>
 

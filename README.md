@@ -17,10 +17,7 @@ li { font-family: verdana; font-size: 15px;}
 <body>
 <h1>Advice for managing a job search and writing resumes before, during, and after a job search in late 2023</h1>
 <h2>Things learned during my job search in October 2022 through February 2024, and beyond.</h2>
-<h2>Updated 1 Jun 2024.</h2>
-
-<hr>
-
+<h2>Updated 20 Jun 2024.</h2>
 
 <li type="A">Disclaimer</li>
 <ol>
@@ -29,13 +26,10 @@ li { font-family: verdana; font-size: 15px;}
 <li type="1">It is presented in good faith as a possible assist to jobseekers.</li>
 <li type="1">Everything changes fast.</li>
 </ol>
-<hr>
 
 <p>&nbsp;</p>
 
-</ol>
 <li type="A">Do yourself a favor and create a dedicated email account</li>
-</ol>
 <ol>
 <li type="1">Before starting your job search, set up a totally separate gmail, outlook, yahoo, hotmail, etc. JOB SEARCH EMAIL ACCOUNT for future job searches.</li>
 <li type="1">By having a dedicated JOB SEARCH EMAIL ACCOUNT, the unstoppable deluge of job alert emails will be kept out of your personal email, making it easier to locate both personal and job search emails.</li>
@@ -50,7 +44,6 @@ li { font-family: verdana; font-size: 15px;}
 <li type="1">That a high profile employer has released a job desctiption requiring a large number of candidates and the job carries with it a high hourly rate which translates into good income for the recruiting company.</li>
 <li type="1">It means that you're probably a top candidate for the position, since recruiters look over the skillset and start searching LinkedIn and Dice for those skillsets, and your profile is an ideal, or near ideal match.</li>
 </ol>
-</ol>
 
 
 <p>&nbsp;</p>
@@ -62,7 +55,7 @@ li { font-family: verdana; font-size: 15px;}
 <li type="1">Save interesting jobs in a folder, not that the job would be around in 6 months, but by having the recruiter's contact info you could inquire about similar positions.</li>
 <li type="1">For contractors, the job search is perpetual, as employers can release you for anything, and probably never tell you the &quot;real&quot; reason.</li>
 <li type="1">My second contract in the 2023-2024 cycle was canceled after working only 40 days. (I had good performance reviews, too.)  Full time employees were also let go, so it wasn't only me.</li>
-<li type="1">So.....keep in mind that as a contractor, TODAY could be your last day on the job, as you can be released at any time.  There is little or no warning given in the 2023-2024 time frame.</li>
+<li type="1">So.....keep in mind that as a contractor, TODAY could be your last day on the job, since you can be released at any time.  There is little or no warning given in the 2023-2024 time frame.</li>
 <li type="1">Keep your personal effects organized at work and your desk drawers free of junk, so that you can vacate in 5 - 10 minutes.</li>
 <li type="1">At my most recent contract job in early 2024, I spent the last hour checking in code written that morning, and going over the essentials with my mentor as a goodwill gesture.</li>
 <li type="1">When suddenly terminated, your co-workers (both employees of the company and other contractors) are as shocked as you are that &quot;today is your last day.&quot;</li>
@@ -79,11 +72,11 @@ li { font-family: verdana; font-size: 15px;}
 <li type="1">If possible, don't quit your job until you have another one.</li>
 <li type="1">If you've lost your job, take the first reasonable offer you get even if it's not optimal, cash flow is important.</li>
 <li type="1">If the job you took simply for cash flow isn't optimal, continue the job search.  Contractors can generally quit at any time.</li>
-<li type="1">A weeks' notice to your supervisor is good business and is recommended.</li>
+<li type="1">One or two weeks' notice to your supervisor is good business.</li>
+<li type="1">You should probably ask the recruiter working with the client to notify them for you, so that both parties know simultaneously.</li>
 </ol>
 
 <p>&nbsp;</p>
-
 
 <li type="A">Ideas for what to include in your resume</li>
 <ol>
@@ -95,6 +88,17 @@ li { font-family: verdana; font-size: 15px;}
 <li type="1">As you write your resume, save it frequently to avoid data loss.</li>
 <li type="1">Until 2022, I had never heard of a recruiter offering to re-structure a resume for me. The first solid contact I had in the 2022 job search asked if he could re-structure my resume and I told him yes, please do so. He said, &quot;No one knows what a resume should look like in any given job market. But I know, because I'm a recruiter.&quot;</li>
 <li type="1">It's even worth letting the recruiter know in the initial email or phone call that you'd appreciate suggestions for tailoring your resume to ensure the best first impression.  This can only help your job search efforts.</li>
+</ol>
+
+
+<p>&nbsp;</p>
+
+<li type="A">Keeping your resume fresh</li>
+<ol>
+<li type="1">Recruiters are up early on Mondays looking for fresh resumes to recommend to their clients.</li>
+<li type="1">Keep your resume fresh by adding a bit more detail to a skill or two and updating the filename.</li>
+<li type="1">I use a filename like 20240601_skillname_firstname_lastname.docx which is updated over the weekend and uploaded to the main job boards, LinkedIn and Dice.</li>
+<li type="1">This way, recruiters searching for &quot;new resumes in the last 24 hours&quot; can be more easily found by virtue of the new date and the updated content.</li>
 </ol>
 
 <p>&nbsp;</p>
@@ -177,13 +181,13 @@ li { font-family: verdana; font-size: 15px;}
 
 <li type="A">While waiting for calls, emails, txts, and interviews.....</li>
 <ol>
-<li type="1">Know your desired hourly rate before replying to a posting.  $40, $50, $60, $70, $80, $90 per hour, etc.  Do not be afraid to ask for your true worth.</li>
+<li type="1">Know your desired hourly rate before replying to a posting.  $40, $50, $60, $70, $80, $90 per hour, etc.  Do not be afraid to ask for your true worth, but also be prepared to accept the going rate, especially if you're out of work.</li>
 <li type="1">After the resume(s) are completed and uploaded, go into &quot;maintenance mode.&quot;</li>
 <li type="1">Watch for missed phone calls, txt messages, and check your job search email account frequently.</li>
-<li type="1">Make sure the voicemail box has space.</li>
-<li type="1">That new voicemail could be your next job.</li>
-<li type="1">Periodically (once a week or once a month) refresh your linkedin, dice, and indeed profiles.</li>
-<li type="1">In 2023, quite a few recruiters are sending an email to you with a short TXT message immediately afterward to get your attention.</li>
+<li type="1">Make sure your voicemail inbox has space.</li>
+<li type="1">Any new voicemail could lead to your next job.</li>
+<li type="1">I've come to the conclusion that direct calls from a recruiter are the best way to be contacted about a new job, this generally means there is a high level of interest in your skillset.</li>
+<li type="1">When a recruiter calls you on the phone or sends a text, the vast majority have already emailed the JD (Job Description) to you, so I've learned there is generally no need to ask them if they've sent the JD to you.
 <li type="1">A method to reduce interruptions after receiving emails and TXTs: reply to the TXT or email with a message similar to the following:</li>
 <ol>
 <li type="1">Hello (Name of recruiter,) The job looks very interesting. I'd like to discuss this on a phone call.</li>
@@ -213,8 +217,9 @@ li { font-family: verdana; font-size: 15px;}
 <ol>
 <li type="1">Write down 4 to 6 questions pertinent to the position, so that you won't forget when the interviewer asks &quot;What questions do you have for us?&quot;</li>
 <li type="1">Write down names and positions held.</li>
-<li type="1">Best to wear a freshly pressed white shirt and tie during the interview.</li>
-<li type="1">Take notes during the interview and study new technologies and terms that are discussed.</li>
+<li type="1">Best to wear a freshly pressed white shirt, open collar, and a blue or gray jacket during the interview.</li>
+<li type="1">Take notes after the interview and study new technologies and terms that are discussed.</li>
+<li type="1">In my recent online interviews, recruiters and clients seem to prefer that you look straight ahead to monitor your engagement.</li>
 </ol>
 
 <p>&nbsp;</p>
@@ -230,18 +235,32 @@ li { font-family: verdana; font-size: 15px;}
 <li type="A">When you decide it's time to look for a new job</li>
 <ol>
 <li type="1">I've found it best to never mention to anyone that you're looking for a new job.</li>
-<li type="1">Even though in C(4) above I state that the job search is perpetual, or seems to be, best not to discuss it in any work environment, as your current employer may find out and plan to release you sooner rather than later.</li>
+<li type="1">Even though in D(4) above I state that the job search is perpetual, or seems to be, best not to discuss it in any work environment, as your current employer may find out and plan to release you sooner rather than later.</li>
 <li type="1">Generally, the first three quarters of the year are the best time, but late January can be slow as well.  In the fourth quarter, hiring usually slows down due to the Thanksgiving, Christmas, and New Year holidays, but resumes quickly afterward, still, continue updating and posting your resume on LinkedIn, Dice, and Indeed.  I've been hired and onboarded in November and December!</li>
 <li type="1">Many companies have layoffs in the fourth quarter, so there is more competition for jobs from recently laid off contractors.</li>
 </ol>
 
+<p>&nbsp;</p>
+
+<li type="A">15 to 20 minutes before your team's online morning meeting:</li>
+<ol>
+<li type="1">Boot the work computer to allow Windows, MacOS, etc., updates to install.
+<li type="1">Turn on the camera and preview your appearance before the meeting starts.</li>
+<li type="1">Turn camera and microphone OFF on Teams, Zoom, Webex, etc.</li>
+<li type="1">Before turning on the camera back on, put on a smile.</li>
+<li type="1">Join the meeting 5 minutes early.</li>
+</ol>
 
 <p>&nbsp;</p>
 
-<li type="A">A Jira and stand up meeting hint</li>
+<li type="A">.....Reiterating.....</li>
 <ol>
-<li type="1">10 minutes before your team's Jira stand up, write down your ticket numbers with a short description and current status on paper.
+<li type="1">Information in this document is not guaranteed, and may be totally incorrect.</li>
+<li type="1">Not responsible for anything that happens or fails to happen from use of this information.</li>
+<li type="1">It is presented in good faith as a possible assist to jobseekers.</li>
+<li type="1">Everything changes fast.</li>
 </ol>
+
 <br>
 <center>*** END OF DOCUMENT ***</center>
 </body>

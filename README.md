@@ -56,7 +56,7 @@ During and after the search
 Keep your current job
 
  1. If possible, don't quit your job until you have another one.
- 2. If you've lost your job, take the first reasonable offer you get even if it's not optimal, cash flow is important.
+ 2. If you've lost your job, consider taking the first reasonable offer you get even if it's not optimal, cash flow is important.
  3. If the job you took simply for cash flow isn't optimal, continue the job search. Contractors can generally quit at any time.
  4. One or two weeks' notice to your supervisor is good business.
  5. You should probably ask the recruiter working with the client to notify them for you, so that both parties know simultaneously.

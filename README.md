@@ -26,8 +26,8 @@ What suddenly being contacted by a significant number of recruiters in one day m
 
  1. That a high profile employer has released a job desctiption requiring a large number of candidates and the job carries with it a high
     hourly rate which translates into good income for the recruiting company.
- 2. It means that you're probably a top candidate for the position, since recruiters look over the skillset and start searching LinkedIn and
-    Dice for those skillsets, and your profile is an ideal, or near ideal match.
+ 2. It means that you're probably a top candidate for the position, since recruiters look over the skillset and start searching LinkedIn, Dice,
+    Indeed, and others for those skillsets, and your profile is an ideal, or near ideal match.
 
  
 

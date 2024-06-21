@@ -17,12 +17,12 @@ Do yourself a favor and create a dedicated email account
     searches.
  2. By having a dedicated JOB SEARCH EMAIL ACCOUNT, the unstoppable deluge of job alert emails will be kept out of your personal email, making
     it easier to locate both personal and job search emails.
- 3. Use the JOB SEARCH EMAIL ACCOUNT address on LinkedIn, Dice, Indeed, etc., and on all job search correspondence.
- 4. Be sure to check your JOB SEARCH EMAIL ACCOUNT regularly.
+ 3. Use the JOB SEARCH EMAIL ACCOUNT address on LinkedIn, Dice, Indeed, and others, and on all job search correspondence.
+ 4. Good to check your JOB SEARCH EMAIL ACCOUNT frequently.
 
  
 
-What suddenly being contacted by a significant number of recruiters in one day means.
+What suddenly being contacted by a significant number of recruiters in one day may mean.
 
  1. That a high profile employer has released a job desctiption requiring a large number of candidates and the job carries with it a high
     hourly rate which translates into good income for the recruiting company.
@@ -33,7 +33,7 @@ What suddenly being contacted by a significant number of recruiters in one day m
 
 During and after the search
 
- 1. Even AFTER you have a new position, you'll still be contacted by recruiters, potentially a good thing.
+ 1. Even AFTER you have a new position, you'll still be contacted by recruiters, a good thing.
  2. The job emails will continue to pile up in your inbox, (hopefully in your JOB SEARCH EMAIL ACCOUNT'S INBOX.)
  3. Save interesting jobs in a folder, not that the job would be around in 6 months, but by having the recruiter's contact info you could
     inquire about similar positions.
@@ -41,7 +41,7 @@ During and after the search
  5. My second contract in the 2023-2024 cycle was canceled after working only 40 days. (I had good performance reviews, too.) Full time
     employees were also let go, so it wasn't only me.
  6. So.....keep in mind that as a contractor, TODAY could be your last day on the job, since you can be released at any time. There is little
-    or no warning given in the 2023-2024 time frame.
+    or no warning given in the 2024 time frame.
  7. Keep your personal effects organized at work and your desk drawers free of junk, so that you can vacate in 5 - 10 minutes.
  8. At my most recent contract job in early 2024, I spent the last hour checking in code written that morning, and going over the essentials
     with my mentor as a goodwill gesture.
@@ -114,7 +114,6 @@ Education list example
 A common format for previous employers and dates employed
 
  1. Company, Full Time or Contractor, start date --- end date --- job title
- 2. (See items J and K below.)
 
  
 
@@ -223,11 +222,11 @@ Things to remember the first few days of your new job
 When you decide it's time to look for a new job
 
  1. I've found it best to never mention to anyone that you're looking for a new job.
- 2. Even though in D(4) above I state that the job search is perpetual, or seems to be, best not to discuss it in any work environment, as your
-    current employer may find out and plan to release you sooner rather than later.
- 3. Generally, the first three quarters of the year are the best time, but late January can be slow as well. In the fourth quarter, hiring
-    usually slows down due to the Thanksgiving, Christmas, and New Year holidays, but resumes quickly afterward, still, continue updating and
-    posting your resume on LinkedIn, Dice, and Indeed. I've been hired and onboarded in November and December!
+ 2. Even though above I state that the job search is perpetual, or seems to be, best not to discuss it in any work environment, as your current
+    client may find out and plan to release you sooner rather than later.
+ 3. Generally, the first three quarters of the year are the best time, but January can be slow as well. In the fourth quarter, hiring usually
+    slows down due to the holidays, but resumes quickly afterward, still, continue updating and posting your resume on LinkedIn, Dice, and
+    Indeed, and others. I've been hired and onboarded in November and December!
  4. Many companies have layoffs in the fourth quarter, so there is more competition for jobs from recently laid off contractors.
 
  

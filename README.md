@@ -24,8 +24,8 @@ Do yourself a favor and create a dedicated email account
 
 What suddenly being contacted by a significant number of recruiters in one day may mean.
 
- 1. That a high profile employer has released a job desctiption requiring a large number of candidates and the job carries with it a high
-    hourly rate which translates into good income for the recruiting company.
+ 1. That a high profile client has released a job desctiption requiring a large number of candidates and the job carries with it a high hourly
+    rate which translates into good income for the recruiting company.
  2. It means that you're probably a top candidate for the position, since recruiters look over the skillset and start searching LinkedIn, Dice,
     Indeed, and others for those skillsets, and your profile is an ideal, or near ideal match.
 
@@ -37,7 +37,7 @@ During and after the search
  2. The job emails will continue to pile up in your inbox, (hopefully in your JOB SEARCH EMAIL ACCOUNT'S INBOX.)
  3. Save interesting jobs in a folder, not that the job would be around in 6 months, but by having the recruiter's contact info you could
     inquire about similar positions.
- 4. For contractors, the job search is perpetual, as employers can release you for anything, and probably never tell you the "real" reason.
+ 4. For contractors, the job search is perpetual, as clients can release you for anything, and probably never tell you the "real" reason.
  5. My second contract in the 2023-2024 cycle was canceled after working only 40 days. (I had good performance reviews, too.) Full time
     employees were also let go, so it wasn't only me.
  6. So.....keep in mind that as a contractor, TODAY could be your last day on the job, since you can be released at any time. There is little
@@ -111,7 +111,7 @@ Education list example
 
  
 
-A common format for previous employers and dates employed
+A common format for previous clients and dates employed
 
  1. Company, Full Time or Contractor, start date --- end date --- job title
 
@@ -122,7 +122,7 @@ More hints for a good resume
  1. If it's been awhile since you've used a secondary skillset, e.g. If it's been 15 years since you worked with PL/1, be sure to let the
     recruiter know that, he or she will understand.
  2. Below the current job or most recent job, explain in 90 - 100 words what skills you learned in the position and how you used them to
-    provide value to the company vs. keeping the coffee pot on. This is a good place to provide a few details for your next potential employer.
+    provide value to the company vs. keeping the coffee pot on. This is a good place to provide a few details for your next potential client.
  3. In every one of the reverse-chronological job histories, briefly mention how your primary skillset (and others) were used.
  4. Use this as the descriptive line above each separate entry in your reverse chronological job history:
 

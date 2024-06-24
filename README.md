@@ -22,6 +22,20 @@ Do yourself a favor and create a dedicated email account
 
  
 
+This paragraph may seem out-of-order but this is a very important item when a contract ends
+
+ 1. Eventually, every contract will end, sooner or later.
+ 2. Update your resume with skills learned at the recently concluded contract and send it to your recruiter.
+ 3. When a contract ends, the question to ask your recuiter IMMEDIATELY is whether he or she is looking for another position for you.
+ 4. If not, request that a search for a new position start ASAP. I was blindsighted by this when a contract ended and no one at my recruiting
+    company was looking.
+ 5. If you're not working, you're not making money. Paychecks stop. Not an ideal situation to say the least.
+ 6. This is why the job search is perpetual as mentioned in section E-4 below.
+ 7. It is simply good business sense for recruiters to place you in another position ASAP. If you're not working, the recuiter and the
+    recruiting company are losing money.
+
+ 
+
 What suddenly being contacted by a significant number of recruiters in one day may mean.
 
  1. That a high profile client has released a job desctiption requiring a large number of candidates and the job carries with it a high hourly
@@ -37,7 +51,8 @@ During and after the search
  2. The job emails will continue to pile up in your inbox, (hopefully in your JOB SEARCH EMAIL ACCOUNT'S INBOX.)
  3. Save interesting jobs in a folder, not that the job would be around in 6 months, but by having the recruiter's contact info you could
     inquire about similar positions.
- 4. For contractors, the job search is perpetual, as clients can release you for anything, and probably never tell you the "real" reason.
+ 4. For contractors, the job search is perpetual, as clients can release you for almost any reason, and probably never tell you the "real"
+    reason why.
  5. My second contract in the 2023-2024 cycle was canceled after working only 40 days. (I had good performance reviews, too.) Full time
     employees were also let go, so it wasn't only me.
  6. So.....keep in mind that as a contractor, TODAY could be your last day on the job, since you can be released at any time. There is little

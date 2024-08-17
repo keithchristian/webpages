@@ -1,79 +1,79 @@
-      Keith V. Christian
-      Golden, Colorado
-      keithchristian@yahoo.com
-      (Send email for phone number.)
-      https://www.linkedin.com/in/keithchristian/
+   Keith V. Christian
+   Golden, Colorado
+   keithchristian@yahoo.com
+   (Send email for phone number.)
+   https://www.linkedin.com/in/keithchristian/
 
-      Education:
-      B.A. Mathematics, Concordia University - Irvine, Ca.
-      EET (Electronics Technology), DeVry Tech - Atlanta, Ga.
+   Education:
+   B.A. Mathematics, Concordia University - Irvine, Ca.
+   EET (Electronics Technology), DeVry Tech - Atlanta, Ga.
 
-      Certificates:
-      OWASP 10 Requirements (2023.)
+   Certificates:
+   OWASP 10 Requirements (2023.)
 
-      Bare Metal and Hardware, Current:
-      I performed remote maintenance in Lumen's Edge Computing Lab when "remote hands" were not available.
-      Dell Poweredge nodes, iDrac RACADM scripting.
-      Supermicro blades, IPMI, SMASH scripting.
-      HP DL3XX hpiLO, IPMI, SMASH scripting.
+   Bare Metal and Hardware, Current:
+   I performed remote maintenance in Lumen's Edge Computing Lab when "remote hands" were not available.
+   Dell Poweredge nodes, iDrac RACADM scripting.
+   Supermicro blades, IPMI, SMASH scripting.
+   HP DL3XX hpiLO, IPMI, SMASH scripting.
 
-      Windows Server:
-      1 year equivalent experience spread across 20 years in IT.
+   Windows Server:
+   1 year equivalent experience spread across 20 years in IT.
 
-      Web:
-      Proficient with HTML, CSS.
-      Familar with the Apache web server.
-      Created a website for a non-profit from scratch with Linux, Apache and PHP, chose hosting provider and successfully
-      deployed it.
+   Web:
+   Proficient with HTML, CSS.
+   Familar with the Apache web server.
+   Created a website for a non-profit from scratch with Linux, Apache and PHP, chose hosting provider and successfully
+   deployed it.
 
-      Security and Recent Project History:
-      Detect and block DDOS attacks at the host system.
-      Throttle data transfers to avoid network and CPU saturation, and similar use cases.
-      Mitigated DDOS and scans with fail2ban, along with a custom blocking package written in an afternoon, based on
-      tcpdump and iptables, and the GNU toolset.
+   Security and Recent Project History:
+   Detect and block DDOS attacks at the host system.
+   Throttle data transfers to avoid network and CPU saturation, and similar use cases.
+   Mitigated DDOS and scans with fail2ban, along with a custom blocking package written in an afternoon, based on
+   tcpdump and iptables, and the GNU toolset.
 
-      Fail2ban: Helps prevent systems from being compromised from outside actors. Stops inbound high frequency scans
-      within a few seconds of appearance. I know how to finesse Fail2ban's configuration files for best reliability.
-      Analyze/filter/block IP traffic utilizing shell, tcpdump and iptables.
+   Fail2ban: Helps prevent systems from being compromised from outside actors. Stops inbound high frequency scans
+   within a few seconds of appearance. I know how to finesse Fail2ban's configuration files for best reliability.
+   Analyze/filter/block IP traffic utilizing shell, tcpdump and iptables.
 
-      PostgreSQL:
-      Proficient with installing and configuring Postgres.
-      Working experience with SQL queries.
-      Understand backup procedures.
-      Configure logging.
-      Designing tables, assigning proper data types, creating indexes.
-      Facilitate data conversion between MySQL and PostgreSQL databases.
+   PostgreSQL:
+   Proficient with installing and configuring Postgres.
+   Working experience with SQL queries.
+   Understand backup procedures.
+   Configure logging.
+   Designing tables, assigning proper data types, creating indexes.
+   Facilitate data conversion between MySQL and PostgreSQL databases.
 
-      Westat, Incorporated (Contract position, short term) Feb 2024 - Current,
-      Linux System Administrator, Mailman List Server Technical SME Administrator
-      Research and document  upgrade from Mailman v2.1 to Mailman 3.
+   Westat, Incorporated (Contract position, short term) Feb 2024 - Current,
+   Linux System Administrator, Mailman List Server Technical SME Administrator
+   Research and document  upgrade from Mailman v2.1 to Mailman 3.
 
-      Charter Communications (Contract position, short term) Nov 2023 - Jan 2024,
-      DNS Engineer -System Engineer III - DNS Engineering Lab
-      Maintain VMWare virtual instances for DNS testing with firmware and OS updates, administrate Nagios monitoring system.
+   Charter Communications (Contract position, short term) Nov 2023 - Jan 2024,
+   DNS Engineer -System Engineer III - DNS Engineering Lab
+   Maintain VMWare virtual instances for DNS testing with firmware and OS updates, administrate Nagios monitoring system.
 
-      Lumen Technologies Edge Compute Lab Team (Contract position) Jan 2023 - Oct 2023,
-      Site Reliability Engineer and DevOps
-      Became familiar with SRE operations including Metal-as-a-Service installation and readiness techniques.
-      Fiber optic, and CAT-5 / 6, blade maintenance on Supermicro and Dell servers installation, and:
-      Installing and troubleshooting fiber optics,  SFP modules.
-      Tracing fiber runs with laser and power level testing equipment.
-      Manually tracing cables and fiber runs.
+   Lumen Technologies Edge Compute Lab Team (Contract position) Jan 2023 - Oct 2023,
+   Site Reliability Engineer and DevOps
+   Became familiar with SRE operations including Metal-as-a-Service installation and readiness techniques.
+   Fiber optic, and CAT-5 / 6, blade maintenance on Supermicro and Dell servers installation, and:
+   Installing and troubleshooting fiber optics,  SFP modules.
+   Tracing fiber runs with laser and power level testing equipment.
+   Manually tracing cables and fiber runs.
 
-      American Express (Contract position)  Dec 2003 - Nov 2007, - Linux Systems Admin / Systems Programmer
-      Financial Systems Production Support: Lead Solaris / Red Hat Linux System Administrator. Provided 24x7 support for
-      Financial applications on Windows / Solaris / Linux. Platforms were built upon Apache Tomcat, Java, Websphere MQ
-      (MQSeries) or other standard frameworks.
-      Application Migration: Assisted in migrating approximately 100 applications to a remote data center.
+   American Express (Contract position)  Dec 2003 - Nov 2007, - Linux Systems Admin / Systems Programmer
+   Financial Systems Production Support: Lead Solaris / Red Hat Linux System Administrator. Provided 24x7 support for
+   Financial applications on Windows / Solaris / Linux. Platforms were built upon Apache Tomcat, Java, Websphere MQ
+   (MQSeries) or other standard frameworks.
+   Application Migration: Assisted in migrating approximately 100 applications to a remote data center.
 
-      Agilent Technologies (Contract position)  Jun 2002 - Apr 2003, - Application Support / Linux Systems Engineer,
-      Web Programming
-      Parts Catalog: eBusiness platform, Server side and client side Javascript, HTML, CSS, Oracle on Solaris.
-      XO Communications (Full Time) 2000 - 2001, - Linux Systems Engineer / Web Programmer
-      Website Programming using the Broadvision platform, e911 engineer.
+   Agilent Technologies (Contract position)  Jun 2002 - Apr 2003, - Application Support / Linux Systems Engineer,
+   Web Programming
+   Parts Catalog: eBusiness platform, Server side and client side Javascript, HTML, CSS, Oracle on Solaris.
+   XO Communications (Full Time) 2000 - 2001, - Linux Systems Engineer / Web Programmer
+   Website Programming using the Broadvision platform, e911 engineer.
 
-      Toshiba America Information Systems (Full Time)  1995 - 2000,  Linux Engineer, Web Programmer , Product Support
-      Website development:  Toshiba's eBusiness and eSupport website. Solaris, Red Hat Linux, MS SQL Server.
+   Toshiba America Information Systems (Full Time)  1995 - 2000,  Linux Engineer, Web Programmer , Product Support
+   Website development:  Toshiba's eBusiness and eSupport website. Solaris, Red Hat Linux, MS SQL Server.
 
-      Updated: Aug 2024.
+   Updated: Aug 2024.
 

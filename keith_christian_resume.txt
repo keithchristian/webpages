@@ -131,8 +131,7 @@ dumps, Java coredumps, and more.
 My scripts can analyze files and delete or move files to increase disk space on the affected drive or partition.
 To avoid needless human intervention, most of my tested, targeted maintenance scripts are set to run as a cron
 job so that the solution requires minimal, or no, human intervention.
-For urgent and fast processing of massive datasets or quick automation jobs, I am proficient with shell script
-parallelization.
+For urgent and fast processing of massive datasets or quick automation jobs, I am proficient with parallelization.
 I know how to develop, debug, and deploy emergency fixes or other code on production devices IF no QA environments
 are available (e.g. architectures where expensive applications and hardware make production the only available
 environment.)

@@ -1,19 +1,19 @@
->>>>>Audience: Anyone using Brave, Chrome, Edge, or Firefox browsers.
->>>>>I've discovered that the "Find" box in all four of these browsers can be used for a temporary clipboard. (Data loss can always occur so no guarantees.) The text will likely disappear when the browser is closed.
- 1 I've pasted over 600 characters in the Find box on each of the four browsers with no issues.
- 2 The potential for crashing the browser with too much text is still a distinct possibility, however. If that happens, close and restart the browser.
- 3 In any of the above browsers, type Ctrl-F (Find.)
- 4 Use the mouse and click the Find box to put the cursor there. The Find box can be on the lower left of the browser window or on the upper right of the window.
- 5 The next two steps make sure there isn't text in the Find box.
- 6 Press Ctrl-A (Select all.)
- 7 Press backspace / delete key (delete any stray text in the Find box.)
- 8 Highlight and copy the text you want to put in the Find box.
- 9 Press Ctrl-V to Paste the text you want to save in the Find box.
- 10 Use the arrow keys to scroll around in the Find box to be sure the text has been pasted.
- 11 To paste the Find contents somewhere more permanent, open up a text editor, Word doc, Excel spreadsheeet, etc.
- 12 Press Ctrl-F again in the browser to go to the Find box.
- 13 Press Ctrl-A (Select all.)
- 14 Press Ctrl-C (Copy.)
- 15 Go to the text editor, Word doc, Excel spreadsheeet, etc.
- 16 Press Ctrl-V (Paste.)
+Audience: Anyone using Brave, Chrome, Edge, or Firefox browsers.
+I've discovered that the "Find" box in all four of these browsers can be used for a temporary clipboard. (Data loss can always occur so no guarantees.) The text will likely disappear when the browser is closed.
+I've pasted over 600 characters in the Find box on each of the four browsers with no issues.
+The potential for crashing the browser with too much text is still a distinct possibility, however. If that happens, close and restart the browser.
+In any of the above browsers, type Ctrl-F (Find.)
+Use the mouse and click the Find box to put the cursor there. The Find box can be on the lower left of the browser window or on the upper right of the window.
+The next two steps make sure there isn't text in the Find box.
+Press Ctrl-A (Select all.)
+Press backspace / delete key (delete any stray text in the Find box.)
+Highlight and copy the text you want to put in the Find box.
+Press Ctrl-V to Paste the text you want to save in the Find box.
+Use the arrow keys to scroll around in the Find box to be sure the text has been pasted.
+To paste the Find contents somewhere more permanent, open up a text editor, Word doc, Excel spreadsheeet, etc.
+Press Ctrl-F again in the browser to go to the Find box.
+Press Ctrl-A (Select all.)
+Press Ctrl-C (Copy.)
+Go to the text editor, Word doc, Excel spreadsheeet, etc.
+Press Ctrl-V (Paste.)
 That's all !!
